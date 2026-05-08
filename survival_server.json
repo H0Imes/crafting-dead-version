@@ -3,5 +3,15 @@
         "map": "Crafting Dead Network",
         "hostName": "45.93.248.228",
         "port": 25007
+    },
+    {
+        "map": "Dead Island",
+        "hostName": "142.44.137.59",
+        "port": 25580
+    },
+    {
+        "map": "Chernarus",
+        "hostName": "142.44.137.59",
+        "port": 25581
     }
 ]
