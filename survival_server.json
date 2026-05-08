@@ -8,10 +8,5 @@
         "map": "Dead Island",
         "hostName": "142.44.137.59",
         "port": 25580
-    },
-    {
-        "map": "Chernarus",
-        "hostName": "142.44.137.59",
-        "port": 25581
     }
 ]
