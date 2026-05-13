@@ -8,10 +8,5 @@
     "map": "Dead Island",
     "hostName": "142.44.137.59",
     "port": 25580
-  },
-  {
-    "map": "Test Server",
-    "hostName": "0.0.0.0.0.0",
-    "port": 25580
   }
 ]
