@@ -1,1 +1,17 @@
-
+[
+  {
+    "map": "Crafting Dead Network",
+    "hostName": "45.93.248.228",
+    "port": 25007
+  },
+  {
+    "map": "Dead Isl",
+    "hostName": "142.44.137.59",
+    "port": 25580
+  },
+  {
+    "map": "Test Server",
+    "hostName": "0.0.0.0.0.0",
+    "port": 25580
+   }
+]
