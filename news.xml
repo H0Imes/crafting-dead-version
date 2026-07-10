@@ -1,0 +1,39 @@
+<root>
+  <text>
+    <line class="news-title" style="font-size: 16; margin-bottom: 2px;"><text>§4§lCrafting Dead Update§r</text></line>
+    <line class="news-intro" style="margin-bottom: 14px;"><text>§7A focused pass on combat feedback, world events, storage, and base interactions.</text></line>
+
+    <line class="news-section"><text>§e§lNew &amp; Notable§r</text></line>
+    <item>Grenades now have upgraded sounds, particles, smoke, flash, and bounce feedback</item>
+    <item>Supply drops feel more alive with improved spawning, smoke, audio, and visuals</item>
+    <item>Vault storage now persists for safer long-term progression</item>
+    <item>Scoped aiming sensitivity is now configurable</item>
+
+    <line class="news-section" style="margin-top: 18px;"><text>§a§lCombat Feel§r</text></line>
+    <item>More reliable hitmarkers, hit detection, and shooting responsiveness</item>
+    <item>Dry-fire audio when weapons have no ammunition</item>
+    <item>Smoother recoil, firing, reload, and third-person weapon animations</item>
+    <item>Better scoped weapon controls and firing behavior</item>
+
+    <line class="news-section" style="margin-top: 18px;"><text>§b§lWorld &amp; Bases§r</text></line>
+    <item>Improved base building interactions, ownership checks, and crafting recipes</item>
+    <item>Cleaner item pickup, inventory handling, and vault synchronization</item>
+    <item>Improved environmental object generation</item>
+    <item>Better handling for building and block interaction edge cases</item>
+
+    <line class="news-section" style="margin-top: 18px;"><text>§c§lFixes§r</text></line>
+    <item>Resolved grenade behavior, rendering, and underwater interaction issues</item>
+    <item>Fixed supply drop particles, spawning, and sound playback problems</item>
+    <item>Fixed base menu, equipment inventory, and vault sync issues</item>
+    <item>Fixed green item icons, blood particles, and muzzle flash visuals</item>
+    <item>Fixed automatic weapons firing after trigger release or without ammo</item>
+    <item>Adjusted adrenaline duration and minigun sprinting behavior</item>
+
+    <line class="news-section" style="margin-top: 18px;"><text>§d§lComing Next§r</text></line>
+    <item>Balance passes based on live feedback</item>
+    <item>More polish for combat, loot, and base systems</item>
+
+    <line class="news-footer" style="font-size: 9; margin-top: 18px;"><text>Found a bug or have feedback? Join the </text><link url="https://discord.gg/craftingdead">§4§lDiscord</link><text>§r.</text></line>
+    <line class="news-footer" style="font-size: 9; margin-top: 4px;"><text>Want to support the network? Visit the </text><link url="https://craftingdeadnetwork.tebex.io/">§4§lWebstore</link><text>§r.</text></line>
+  </text>
+</root>
